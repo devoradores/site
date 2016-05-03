@@ -1,0 +1,932 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR">
+<head profile="http://gmpg.org/xfn/11"><link rel="stylesheet" type="text/css" href="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/bY5RDoIwEEQvRFmI3kT_SWkHKCm0tkuwt7cooon-7ZudvN2KrgMubgkKFDlZFDVFp4y0YoI2UqxG9-A9a16UO6sX7ASvhhmBVIy0z6IDdC4kt_DSQsTBBVZO4zcpqq_j8HKGpWMZn9IPZqV32gds6fbogf80XvZoGJO3krNqjNTJWaXW3Wm8LQipfLOoy1N5fgA.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/M9APyUgNzi8tSk7VTy1IzEvN0S9ITE-NL0nNLchJLEktRuMCAA.css" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Streets of Rage | Devoradores de Controles</title>
+
+
+<link rel="pingback" href="http://www.devoradoresdecontroles.com.br/xmlrpc.php" />
+
+<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.devoradoresdecontroles.com.br/wp-content/themes/TheSource/css/ie6style.css" />
+	<script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/themes/TheSource/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script type="text/javascript">DD_belatedPNG.fix('img#logo, #cat-nav-left, #cat-nav-right, #search-form, #cat-nav-content, div.top-overlay, .slide .description, div.overlay, a#prevlink, a#nextlink, .slide a.readmore, .slide a.readmore span, .recent-cat .entry .title, #recent-posts .entry p.date, .footer-widget ul li, #tabbed-area ul#tab_controls li span');</script>
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.devoradoresdecontroles.com.br/wp-content/themes/TheSource/css/ie7style.css" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://www.devoradoresdecontroles.com.br/wp-content/themes/TheSource/css/ie8style.css" />
+<![endif]-->
+
+<script type="text/javascript">
+	document.documentElement.className = 'js';
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Feed para Devoradores de Controles &raquo;" href="http://www.devoradoresdecontroles.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Devoradores de Controles &raquo;" href="http://www.devoradoresdecontroles.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Devoradores de Controles &raquo; Streets of Rage" href="http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.devoradoresdecontroles.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="TheSource v.4.7" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close',
+	playbutton : 'Play &gt;'
+}
+//]]>
+</script>
+<script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/M9QvyE8pKEotLtYvyEmsTC0q1jcsyKxIzckvLUGw4hNLUzLzdSEqAA.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["bg"] = "E5E5E5";
+	podPressPopupPlayerOpt["text"] = "333333";
+	podPressPopupPlayerOpt["leftbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["lefticon"] = "333333";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["rightbg"] = "B4B4B4";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["righticon"] = "333333";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["loader"] = "009900";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["border"] = "CCCCCC";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podPressPopupPlayerOpt["animation"] = "yes";
+	podPressPopupPlayerOpt["remaining"] = "no";
+	podpressAudioPlayer.setup("http://www.devoradoresdecontroles.com.br/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {bg:"E5E5E5", text:"333333", leftbg:"CCCCCC", lefticon:"333333", volslider:"666666", voltrack:"FFFFFF", rightbg:"B4B4B4", rightbghover:"999999", righticon:"333333", righticonhover:"FFFFFF", loader:"009900", track:"FFFFFF", border:"CCCCCC", tracker:"DDDDDD", skip:"666666", slider:"666666", initialvolume:"70", buffer:"5", checkpolicy:"no", animation:"yes", remaining:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "http://www.devoradoresdecontroles.com.br/";
+var podPressBackendURL = "http://www.devoradoresdecontroles.com.br/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "http://www.devoradores.com.br/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = false;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressHTML5 = true;
+var podPressHTML5_showplayersdirectly = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzdAz1C_JTCopSi4v1s4rhbAA.js"></script>
+<link rel='https://api.w.org/' href='http://www.devoradoresdecontroles.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.devoradoresdecontroles.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.devoradoresdecontroles.com.br/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Final Fantasy Tactics' href='http://www.devoradoresdecontroles.com.br/2011/03/06/final-fantasy-tactics/' />
+<link rel='next' title='Alternativo ou não-convencional?' href='http://www.devoradoresdecontroles.com.br/2011/03/09/alternativo-ou-nao-convencional/' />
+<meta name="generator" content="WordPress 4.5.1" />
+<link rel="canonical" href="http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/" />
+<link rel='shortlink' href='http://www.devoradoresdecontroles.com.br/?p=344' />
+<link rel="alternate" type="application/json+oembed" href="http://www.devoradoresdecontroles.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.devoradoresdecontroles.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+	<style type="text/css">
+		#et_pt_portfolio_gallery { margin-left: 2px; }
+		.et_pt_portfolio_item { margin-left: 11px; }
+		.et_portfolio_small { margin-left: -14px !important; }
+		.et_portfolio_small .et_pt_portfolio_item { margin-left: 22px !important; }
+		.et_portfolio_large { margin-left: -12px !important; }
+		.et_portfolio_large .et_pt_portfolio_item { margin-left: 13px !important; }
+	</style>
+
+</head>
+<body class="single single-post postid-344 single-format-standard unknown et_includes_sidebar">
+	<div id="header-top" class="clearfix">
+		<div class="container clearfix">
+			<!-- Start Logo -->
+			
+			<a href="http://www.devoradoresdecontroles.com.br/">
+								<img src="http://www.devoradores.com.br/wp-content/uploads/2011/04/logoDC.png" alt="Devoradores de Controles" id="logo"/>
+			</a>
+			<p id="slogan">Podcast para o público gamer&#8230; Devorem seus controles!</p>
+			<!-- End Logo -->
+
+			<!-- Start Page-menu -->
+			<div id="page-menu">
+				<div id="p-menu-left"> </div>
+				<div id="p-menu-content">
+
+					<ul class="nav clearfix">				<li ><a href="http://www.devoradoresdecontroles.com.br">Home</a></li>
+			<li class="page_item page-item-3049"><a href="http://www.devoradoresdecontroles.com.br/contato/">Contato</a></li>
+<li class="page_item page-item-1365"><a href="http://www.devoradoresdecontroles.com.br/equipe/">Equipe</a></li>
+<li class="page_item page-item-2"><a href="http://www.devoradoresdecontroles.com.br/sobre/">Sobre</a></li>
+</ul>
+				</div>
+				<div id="p-menu-right"> </div>
+			</div>	<!-- end #page-menu -->
+			<!-- End Page-menu -->
+
+			<div id="cat-nav" class="clearfix">
+				<div id="cat-nav-left"> </div>
+				<div id="cat-nav-content">
+
+					<ul class="superfish nav clearfix">	<li class="cat-item cat-item-3"><a href="http://www.devoradoresdecontroles.com.br/category/podcast/" >Podcast</a>
+<ul class='children'>
+	<li class="cat-item cat-item-331"><a href="http://www.devoradoresdecontroles.com.br/category/podcast/devoralive/" >DevoraLIVE</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/" >Colunas</a>
+<ul class='children'>
+	<li class="cat-item cat-item-15"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/edu-game-bar/" >Edu Game Bar</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/show-do-lira/" >O Show do Lira</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/salese-indica/" >Salese Indica</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/alternative-game-lounge/" >Alternative Game Lounge</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/jogos-japa/" >Jogos Japa</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/o-caixista/" >O Caixista</a>
+</li>
+	<li class="cat-item cat-item-111"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/doctor-ze/" >Doctor Zé</a>
+</li>
+	<li class="cat-item cat-item-123"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/hands-on/" >Hands On</a>
+</li>
+	<li class="cat-item cat-item-135"><a href="http://www.devoradoresdecontroles.com.br/category/colunas/mario-100-alca/" >Mario 100 Alça</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.devoradoresdecontroles.com.br/category/promocoes/" >Promoções</a>
+</li>
+	<li class="cat-item cat-item-236"><a href="http://www.devoradoresdecontroles.com.br/category/reviews/" >Reviews</a>
+</li>
+	<li class="cat-item cat-item-284"><a href="http://www.devoradoresdecontroles.com.br/category/fight-club/" >Fight Club</a>
+<ul class='children'>
+	<li class="cat-item cat-item-283"><a href="http://www.devoradoresdecontroles.com.br/category/fight-club/mvc3/" >MvC3</a>
+</li>
+	<li class="cat-item cat-item-308"><a href="http://www.devoradoresdecontroles.com.br/category/fight-club/kof-xiii/" >KoF XIII</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-330"><a href="http://www.devoradoresdecontroles.com.br/category/info/" >Informações</a>
+</li>
+</ul>
+					<!-- Start Searchbox -->
+					<div id="search-form">
+						<form method="get" id="searchform1" action="http://www.devoradoresdecontroles.com.br/">
+							<input type="text" value="search..." name="s" id="searchinput" />
+
+							<input type="image" src="http://www.devoradoresdecontroles.com.br/wp-content/themes/TheSource/images/search_btn.png" id="searchsubmit" />
+						</form>
+					</div>
+				<!-- End Searchbox -->
+				</div> <!-- end #cat-nav-content -->
+				<div id="cat-nav-right"> </div>
+			</div>	<!-- end #cat-nav -->
+		</div> 	<!-- end .container -->
+	</div> 	<!-- end #header-top -->
+
+
+
+	
+	<div id="content">
+					<div id="content-top-shadow"></div>
+				<div class="container">	
+	<div id="main-content-wrap">
+		<div id="main-content" class="clearfix">
+			<div id="breadcrumbs">
+
+					<a href="http://www.devoradoresdecontroles.com.br/">Home</a> &raquo;
+
+									<a href="http://www.devoradoresdecontroles.com.br/category/colunas/show-do-lira/">O Show do Lira</a> &raquo; Streets of Rage					
+</div> <!-- end #breadcrumbs -->			<div id="top-shadow"></div>
+
+			<div id="recent-posts" class="clearfix">
+							<div class="entry post clearfix">
+					<h1 class="title">Streets of Rage</h1>
+
+								<div class="post-meta clearfix">
+			<p class="meta-info">Posted  by <a href="http://www.devoradoresdecontroles.com.br/author/lira/" title="Posts de Fernando Lira" rel="author">Fernando Lira</a> in <a href="http://www.devoradoresdecontroles.com.br/category/colunas/show-do-lira/" rel="category tag">O Show do Lira</a> | <a href="http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/#comments"><span class="dsq-postid" data-dsqidentifier="344 http://www.devoradores.com.br/?p=344">9 comments</span></a></p>
+		</div> <!-- end .post-meta -->
+	
+					<div class="entry-content">
+						
+						<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=20320310172&amp;xfbml=1"></script><script language="JavaScript">
+					FB.Event.subscribe('edge.create', function(response) {
+						_gaq.push(['_trackEvent','SocialSharing','Facebook - like button',unescape(String(response).replace(/\+/g, " "))]);
+					});
+				</script><script type="text/javascript">
+				  (function() {
+				    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+				    po.src = "https://apis.google.com/js/plusone.js";
+				    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script><p style="text-align: center;"><img class="aligncenter size-full wp-image-354" title="coluna-streets-of-rage" src="http://www.devoradores.com.br/wp-content/uploads/2011/03/coluna-streets-of-rage.jpg" alt="Show do Lira - Streets of Rage" width="550" height="250" srcset="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/coluna-streets-of-rage.jpg 550w, http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/coluna-streets-of-rage-300x136.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<p>Saudações amigos devoradores!</p>
+<p>Iniciando minha coluna aqui nos devoradores de controles, eu sou Fernando Lira e estou sozinho, sem o Edu e o Dalton, vou começar  ‘O Show do Lira’ isso é uma homenagem aos amigos de trabalho, que fica por ora, para uma próxima.</p>
+<p>Sem mais delongas vou escrever um pouco sobre Streets of Rage (US) ou Bare Knuckle (JPN), uma das franquias que beat ´em up, que mais gosto, quem ouve o cast sabe que gosto do Mega Drive. Tive a oportunidade de termina todos os jogos dessa franquia, me permitam o adendo: “Toma essa Dalton!”.</p>
+<p>Muitos gostam mais de Final Fight, eu gosto dessa franquia também, mas para console essa com certeza é uma das melhores e mais bem feitas franquias do gênero.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-348" title="streets-of-rage" src="http://www.devoradores.com.br/wp-content/uploads/2011/03/streets-of-rage.jpg" alt="Streets of Rage" width="550" height="250" srcset="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage.jpg 550w, http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage-300x136.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<p>Em 1991, foi lançando o Streets of Rage. Tudo começa quando Axel, Adam e Blaze, decidem sair da polícia, já que a corrupção e o crime já tinham tomado conta da cidade. E com suas próprias mãos, literalmente, tirar a cidade das garras do sindicato criminoso comandado por Mr. X.</p>
+<p>O objetivo do jogo é distribuir pancada em tudo e qualquer coisa que possa aparecer na sua frente. O jogo tem 12 fases e o golpe especial, todos os inimigos eram congelados e aparecia um carro da polícia e atirava com uma bazuca, bem semelhante aos jogos da mesma época.</p>
+<p>Tive poucas oportunidades de jogar esse jogo, porém é um grande jogo apesar de algumas dificuldades na jogabilidade, que não diminui o fator diversão.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-349" title="streets-of-rage-2" src="http://www.devoradores.com.br/wp-content/uploads/2011/03/streets-of-rage-2.jpg" alt="Streets of Rage 2" width="550" height="250" srcset="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage-2.jpg 550w, http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage-2-300x136.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<p>Agora em 1992, lançaram o Streets of Rage 2. O jogo se passa um ano depois da queda do sindicato do crime, Adam, Axel e Blaze, tinham tomados rumos diferentes. Adam retornado a polícia, Axel virado guarda costas e Blaze professora de dança, mas nada que é bom dura muito&#8230; Axel recebe uma ligação de Skate ou Sammy, irmão de Adam, dizendo que o irmão Adam havia desaparecido. Agora Axel, Blaze, Skate e Max, um amigo do Axel, juntos vão destruir novamente sindicato do crime e resgatar o Adam.</p>
+<p>Esse jogo trouxe uma grande renovação gráfica, novos gráficos, personagens e inimigos, o jogo distribuído em 8 fases, com uma mecânica de jogo excelente, além de um modo versus, não tão divertido quando o modo normal.</p>
+<p>Os novos inimigos além dos que ficam perambulando pelas ruas a pé, também podem vir de moto, e você tem várias combinações de golpes, como joelhadas, arremessos, cabeçadas, socos e voadoras, além dos golpes especiais.</p>
+<p>Eu considero o melhor jogo da trilogia, tive a oportunidade de jogar hora e mais horas, esse vale o cartucho!</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-350" title="streets-of-rage-3" src="http://www.devoradores.com.br/wp-content/uploads/2011/03/streets-of-rage-3.jpg" alt="Streets of Rage 3" width="550" height="250" srcset="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage-3.jpg 550w, http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/streets-of-rage-3-300x136.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<p>O último jogo da franquia foi lançado em 1994, Streets of Rage 3. Não fugindo da história dos demais a luta contra o sindicato do crime, porém com personagens secretos, rotas alternativas e uma melhora na jogabilidade e golpes secretos. Neste jogo você conta inicialmente com Axel, Blaze, Skate e Zen, um cyborg. Você pode jogar com Shiva e com o canguru Roo.</p>
+<p>Existem vários ROMS hacks, no qual é possível jogar com Adam e até um chefe.</p>
+<p>Tem um projeto Streets of Rage Remake, que tenta recriar o jogo, vale ver o projeto, porém ele não roda em Windows 7.</p>
+<p><a title="Streets of Rage Remake" href="http://www.bombergames.net/sorr_project/">http://www.bombergames.net/sorr_project/</a></p>
+<p>É um jogo que também vale as horas gastas, perdeu um pouco por não ter uma história melhor, sem maiores novidades.</p>
+<p>Streets of Rage, é uma franquia, que faz jus em ser uma referência do gênero Beat ´em up. Teve vários remakes para Wii, XBOX 360 e também irá ter para PS3.</p>
+<p>Essa sem dúvida é uma franquia que poderia ser portada para os novos consoles, claro mantendo o estilo 2D, que está em alto no momento.</p>
+<p>Sem mais fico por aqui&#8230; queria mesmo escrever um pouco sobre esses títulos quem sabe falar um pouco sobre em um cast sobre Beat ´em up!</p>
+<div class="trackable_sharing"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F" style="text-decoration: none; white-space: nowrap;" title="Facebook" target="_blank" onclick="that=this;_gaq.push(['_trackEvent','SocialSharing','Facebook','http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/']); _trackableshare_window = window.open(this.href,'share','menubar=0,resizable=1,width=500,height=350'); _trackableshare_window.focus(); return false;"><img align="absmiddle" src="http://www.devoradoresdecontroles.com.br/wp-content/plugins/trackable-social-share-icons/buttons/f2//facebook.png" alt="Facebook" width="36" height="36"></a> <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F&text=Streets+of+Rage" style="text-decoration: none; white-space: nowrap;" title="Twitter" target="_blank" onclick="that=this;_gaq.push(['_trackEvent','SocialSharing','Twitter','http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/']); _trackableshare_window = window.open(this.href,'share','menubar=0,resizable=1,width=500,height=350'); _trackableshare_window.focus(); return false;"><img align="absmiddle" src="http://www.devoradoresdecontroles.com.br/wp-content/plugins/trackable-social-share-icons/buttons/f2//twitter.png" alt="Twitter" width="36" height="36"></a> <a href="mailto:?subject=Check out http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F" style="text-decoration: none; white-space: nowrap;" title="Email" onclick="that=this;_gaq.push(['_trackEvent','SocialSharing','Email','http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/']); "><img align="absmiddle" src="http://www.devoradoresdecontroles.com.br/wp-content/plugins/trackable-social-share-icons/buttons/f2//email.png" alt="Email" width="36" height="36"></a> <br /><div style="padding: 5px 0 0;"><fb:like href="http%3A%2F%2Fwww.devoradoresdecontroles.com.br%2F2011%2F03%2F08%2Fstreets-of-rage%2F" send="true" width="450" show_faces="false" font=""></fb:like></div><br /><g:plusone annotation="none"></g:plusone></div>												                        					</div> <!-- end .entry-content -->
+
+				</div> <!-- end .entry -->
+
+									<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Devoradores -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-2010394663725324"
+     data-ad-slot="6493516710"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				
+				
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-25">
+        <div id="dsq-comment-header-25" class="dsq-comment-header">
+            <cite id="dsq-cite-25">
+                <span id="dsq-author-user-25">Anônimo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-25" class="dsq-comment-body">
+            <div id="dsq-comment-message-25" class="dsq-comment-message"><p>ótimo game, excelente mesmo joguei todos. uma curiosidade legal é que o game Fighting Force lançado para playstation e N64 era para ser um streets of rage também.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-26">
+        <div id="dsq-comment-header-26" class="dsq-comment-header">
+            <cite id="dsq-cite-26">
+                <a id="dsq-author-user-26" href="http://www.facebook.com/edcrodrigues" target="_blank" rel="nofollow">Eduardo Rodrigues</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-26" class="dsq-comment-body">
+            <div id="dsq-comment-message-26" class="dsq-comment-message"><p>ótimo game, excelente mesmo joguei todos. uma curiosidade legal é que o game Fighting Force lançado para playstation e N64 era para ser um streets of rage também.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-29">
+        <div id="dsq-comment-header-29" class="dsq-comment-header">
+            <cite id="dsq-cite-29">
+                <span id="dsq-author-user-29">Sócrates</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-29" class="dsq-comment-body">
+            <div id="dsq-comment-message-29" class="dsq-comment-message"><p>No street of rage 2 dava para fazer rolar uns códigos que aparecia um level chamado MANIA muito F$%@ e lembro quando jogava, eu chegava na última tela com uma vida, muito boa a dificuldade, dava vontade de jogar o dia todo para mim o melhor jogo do mega drive.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-34">
+        <div id="dsq-comment-header-34" class="dsq-comment-header">
+            <cite id="dsq-cite-34">
+                <a id="dsq-author-user-34" href="http://twitter.com/liraf" target="_blank" rel="nofollow">Fernando Lira</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-34" class="dsq-comment-body">
+            <div id="dsq-comment-message-34" class="dsq-comment-message"><p>Esse do mania eu não sabia rs&#8230;<br />
+Eu jogava tanto que chegava com muitas vidas no final já&#8230; no começo era uma lastima&#8230; ai tinha que devolver pra locadora kkk</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-32">
+        <div id="dsq-comment-header-32" class="dsq-comment-header">
+            <cite id="dsq-cite-32">
+                <a id="dsq-author-user-32" href="http://twitter.com/Wakashimazu" target="_blank" rel="nofollow">Renan Pinheiro</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-32" class="dsq-comment-body">
+            <div id="dsq-comment-message-32" class="dsq-comment-message"><p>Esse é foda, gostod e Final Fight bagarai porém, nos consoles Streets of Rage owna!</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-35">
+        <div id="dsq-comment-header-35" class="dsq-comment-header">
+            <cite id="dsq-cite-35">
+                <a id="dsq-author-user-35" href="http://twitter.com/liraf" target="_blank" rel="nofollow">Fernando Lira</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-35" class="dsq-comment-body">
+            <div id="dsq-comment-message-35" class="dsq-comment-message"><p>Tanto curto Final Fight, nesse final de semana joguei com o Edu na PSN&#8230;</p>
+<p>Escreverei sobre outros jogos do mesmo gênero!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-42">
+        <div id="dsq-comment-header-42" class="dsq-comment-header">
+            <cite id="dsq-cite-42">
+                <span id="dsq-author-user-42">Marcelo Andrade</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-42" class="dsq-comment-body">
+            <div id="dsq-comment-message-42" class="dsq-comment-message"><p>Eu relembrei deles esses dias pois pois peguei pra platinar o Mega Drive collection pra PS3. Zerei os 3 jogos de novo.</p>
+<p>Eu ainda gosto muito do primeiro. As musicas ficam na minha cabeça ate hoje&#8230; A musica dos chefes era a mesma. Final Fight  e o rei absoluto deste tipo de jogo mas SoR marcou seu nome no Mega Drive&#8230;</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-44">
+        <div id="dsq-comment-header-44" class="dsq-comment-header">
+            <cite id="dsq-cite-44">
+                <a id="dsq-author-user-44" href="http://www.facebook.com/edcrodrigues" target="_blank" rel="nofollow">Eduardo Rodrigues</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-44" class="dsq-comment-body">
+            <div id="dsq-comment-message-44" class="dsq-comment-message"><p>Também tenho essa coletânea para PS3 mas ainda não &#8220;re-terminei&#8221; os 3 jogos da série. As musicas de SoR são do lendário Yuzo Koshiro que eu considero um dos gênios da Sega junto com Yu Suzuki e Yuji Naka. Final Fight não tenho nem o que dizer de tão foda&#8230; é um Beat &#8216;em up muito agradável de se jogar.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-81">
+        <div id="dsq-comment-header-81" class="dsq-comment-header">
+            <cite id="dsq-cite-81">
+                <span id="dsq-author-user-81">Cesar Ferraz</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-81" class="dsq-comment-body">
+            <div id="dsq-comment-message-81" class="dsq-comment-message"><p>Lembro até hoje quando ganhei de Natal o SoR 1 original americano do Sega Genesis. Eu não conseguia parar de jogar! As músicas eram maravilhosas e queria ficar escutando a todo momento. Impagável os Versus que eu tirava com meus amigos. Jogávamos um contra o outro e contra todos os inimigos ao mesmo tempo. Era risada pra todo lado! rs As vezes esse versus durava até o final do jogo tamanho era nosso vício. o Sor2 realmente veio pra quebrar tudo e melhorar o 1 em quase todos os aspectos. Uma pena que perdeu os golpes combinados que reapareceriam no 3. Já o SoR3 se perdeu um pouco e o Yuzo Koshiro também viajou demais. Mas joguei muito os 3. Jogaços!!!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/';
+var disqus_identifier = '344 http://www.devoradores.com.br/?p=344';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'devoradoresdecontrolesbeta';
+var disqus_title = "Streets of Rage";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=344';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+						</div> <!-- end #recent-posts -->
+
+		<div id="sidebar">
+	
+		<div id="onecol">
+			
+<div id="tabbed-area">
+
+	<ul class="clearfix" id="tab_controls">
+		<li class="first active"><a href="#"><span>Recent</span></a></li>
+		<li class="second"><a href="#"><span>Popular</span></a></li>
+		<li class="last"><a href="#"><span>Random</span></a></li>
+	</ul>
+
+	<div id="all_tabs" class="clearfix">
+		<div class="widget popular">
+			<ul>
+										
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2013/03/04/descontos-em-jogos-na-xbox-live/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2013/03/xbox_live.jpg" alt='Descontos em jogos na XBOX Live!' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2013/03/04/descontos-em-jogos-na-xbox-live/">
+			<span class="title">Descontos em jogos na XBOX Live!</span>
+		</a>
+		<span class="postinfo">Posted on 04/03/2013</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/12/27/pausa-para-festa-quem-sabe-um-ate-logo-ou-um-ate-nunca-mais/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/07/8001050f1.jpg" alt='Pausa para festa&#8230; Quem sabe um até logo ou um até nunca mais&#8230;' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/12/27/pausa-para-festa-quem-sabe-um-ate-logo-ou-um-ate-nunca-mais/">
+			<span class="title">Pausa para festa&#8230; Quem sabe um até logo ou um até nunca mais&#8230;</span>
+		</a>
+		<span class="postinfo">Posted on 27/12/2012</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/11/24/devoralive-12/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/11/super-banner-devoralive-12_1400x300.jpg" alt='DevoraLIVE #12' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/11/24/devoralive-12/">
+			<span class="title">DevoraLIVE #12</span>
+		</a>
+		<span class="postinfo">Posted on 24/11/2012</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/11/09/devoralive-11/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/11/super-banner-devoralive-11_1400x300.jpg" alt='DevoraLIVE #11' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/11/09/devoralive-11/">
+			<span class="title">DevoraLIVE #11</span>
+		</a>
+		<span class="postinfo">Posted on 09/11/2012</span>
+	</span>
+</li>								</ul>
+		</div> <!-- end .widget -->
+
+		<div class="widget popular">
+			<ul>
+																							
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2011/08/03/podcast-12-street-fighter/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/08/super-banner-podcast-12.jpg" alt='Podcast #12 Street Fighter' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2011/08/03/podcast-12-street-fighter/">
+			<span class="title">Podcast #12 Street Fighter</span>
+		</a>
+		<span class="postinfo">Posted on 03/08/2011</span>
+	</span>
+</li>																														
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2011/02/28/podcast-04-master-system/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/02/podcast04_banner.jpg" alt='Podcast #04: Master System' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2011/02/28/podcast-04-master-system/">
+			<span class="title">Podcast #04: Master System</span>
+		</a>
+		<span class="postinfo">Posted on 28/02/2011</span>
+	</span>
+</li>																														
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2011/03/30/podcast-06-beat-em-up/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/podcast06_banner.jpg" alt='Podcast #06: Beat &#8216;em up' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2011/03/30/podcast-06-beat-em-up/">
+			<span class="title">Podcast #06: Beat &#8216;em up</span>
+		</a>
+		<span class="postinfo">Posted on 30/03/2011</span>
+	</span>
+</li>																														
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2011/06/12/podcast-10-mega-drive/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/06/super-banner-podcast-10.jpg" alt='Podcast #10 Mega Drive' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2011/06/12/podcast-10-mega-drive/">
+			<span class="title">Podcast #10 Mega Drive</span>
+		</a>
+		<span class="postinfo">Posted on 12/06/2011</span>
+	</span>
+</li>														</ul>
+		</div> <!-- end .widget -->
+
+		<div class="widget popular">
+			<ul>
+										
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2011/03/coluna-streets-of-rage.jpg" alt='Streets of Rage' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2011/03/08/streets-of-rage/">
+			<span class="title">Streets of Rage</span>
+		</a>
+		<span class="postinfo">Posted on 08/03/2011</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/11/09/devoralive-11/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/11/super-banner-devoralive-11_1400x300.jpg" alt='DevoraLIVE #11' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/11/09/devoralive-11/">
+			<span class="title">DevoraLIVE #11</span>
+		</a>
+		<span class="postinfo">Posted on 09/11/2012</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/08/16/novidade-podcast-ao-vivo-dos-devoradores-de-controles/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/08/167663_148711721854380_3751988_n1.jpg" alt='Novidade! Podcast ao vivo dos devoradores de controles.' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/08/16/novidade-podcast-ao-vivo-dos-devoradores-de-controles/">
+			<span class="title">Novidade! Podcast ao vivo dos devoradores de controles.</span>
+		</a>
+		<span class="postinfo">Posted on 16/08/2012</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://www.devoradoresdecontroles.com.br/2012/11/24/devoralive-12/">
+			<img src="http://www.devoradoresdecontroles.com.br/wp-content/uploads/2012/11/super-banner-devoralive-12_1400x300.jpg" alt='DevoraLIVE #12' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://www.devoradoresdecontroles.com.br/2012/11/24/devoralive-12/">
+			<span class="title">DevoraLIVE #12</span>
+		</a>
+		<span class="postinfo">Posted on 24/11/2012</span>
+	</span>
+</li>								</ul>
+		</div> <!-- end .widget -->
+	</div> <!-- end #all-tabs -->
+
+</div> <!-- end #tabbed-area -->
+
+
+
+		<div id="recent-posts-3" class="widget widget_recent_entries">		<h4 class="widgettitle"><span>Tópicos recentes</span></h4><div class="widgetcontent">		<ul>
+					<li>
+				<a href="http://www.devoradoresdecontroles.com.br/2013/03/04/descontos-em-jogos-na-xbox-live/">Descontos em jogos na XBOX Live!</a>
+						</li>
+					<li>
+				<a href="http://www.devoradoresdecontroles.com.br/2012/12/27/pausa-para-festa-quem-sabe-um-ate-logo-ou-um-ate-nunca-mais/">Pausa para festa&#8230; Quem sabe um até logo ou um até nunca mais&#8230;</a>
+						</li>
+					<li>
+				<a href="http://www.devoradoresdecontroles.com.br/2012/11/24/devoralive-12/">DevoraLIVE #12</a>
+						</li>
+					<li>
+				<a href="http://www.devoradoresdecontroles.com.br/2012/11/09/devoralive-11/">DevoraLIVE #11</a>
+						</li>
+					<li>
+				<a href="http://www.devoradoresdecontroles.com.br/2012/11/02/devoralive-10/">DevoraLIVE #10</a>
+						</li>
+				</ul>
+		</div><!-- end .widget-content --></div> <!-- end .widget -->		<div id="adsensewidget-4" class="widget widget_adsensewidget"><h4 class="widgettitle"><span>Google Adsense</span></h4><div class="widgetcontent">		<div style="overflow: hidden;">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Devoradores Quadrado -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2010394663725324"
+     data-ad-slot="1784115513"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			<div class="clearfix"></div>
+		</div> <!-- end adsense -->
+	</div><!-- end .widget-content --></div> <!-- end .widget -->		</div> <!-- end #onecol -->
+
+	
+			<div id="firstcol">
+								</div> <!-- end #firstcol -->
+
+		<div id="secondcol">
+								</div> <!-- end #secondcol -->
+	
+</div> <!-- end sidebar -->
+
+			</div> <!-- end #main-content -->
+		</div> <!-- end #main-content-wrap -->
+	</div> 	<!-- end .container -->
+</div> <!-- end #content -->
+
+<div id="content-bottom">
+	<div class="container"></div>
+</div>
+
+<div id="footer">
+	<div class="container clearfix">
+
+		<div id="archives-3" class="footer-widget widget_archive"><h4 class="widgettitle">Arquivos</h4>		<label class="screen-reader-text" for="archives-dropdown-3">Arquivos</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Selecionar o mês</option>
+				<option value='http://www.devoradoresdecontroles.com.br/2013/03/'> março 2013 &nbsp;(1)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/12/'> dezembro 2012 &nbsp;(1)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/11/'> novembro 2012 &nbsp;(3)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/10/'> outubro 2012 &nbsp;(7)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/09/'> setembro 2012 &nbsp;(5)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/08/'> agosto 2012 &nbsp;(2)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/07/'> julho 2012 &nbsp;(1)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/06/'> junho 2012 &nbsp;(5)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/05/'> maio 2012 &nbsp;(3)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/04/'> abril 2012 &nbsp;(2)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/03/'> março 2012 &nbsp;(3)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/02/'> fevereiro 2012 &nbsp;(1)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2012/01/'> janeiro 2012 &nbsp;(2)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/12/'> dezembro 2011 &nbsp;(2)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/11/'> novembro 2011 &nbsp;(4)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/10/'> outubro 2011 &nbsp;(8)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/09/'> setembro 2011 &nbsp;(2)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/08/'> agosto 2011 &nbsp;(3)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/07/'> julho 2011 &nbsp;(5)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/06/'> junho 2011 &nbsp;(7)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/05/'> maio 2011 &nbsp;(10)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/04/'> abril 2011 &nbsp;(13)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/03/'> março 2011 &nbsp;(15)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/02/'> fevereiro 2011 &nbsp;(4)</option>
+	<option value='http://www.devoradoresdecontroles.com.br/2011/01/'> janeiro 2011 &nbsp;(1)</option>
+
+		</select>
+		</div> <!-- end .footer-widget --><div id="pages-2" class="footer-widget widget_pages"><h4 class="widgettitle">Páginas</h4>		<ul>
+			<li class="page_item page-item-3049"><a href="http://www.devoradoresdecontroles.com.br/contato/">Contato</a></li>
+<li class="page_item page-item-1365"><a href="http://www.devoradoresdecontroles.com.br/equipe/">Equipe</a></li>
+<li class="page_item page-item-2"><a href="http://www.devoradoresdecontroles.com.br/sobre/">Sobre</a></li>
+		</ul>
+		</div> <!-- end .footer-widget -->		<div class="clear"></div>
+
+	</div> <!--end .container -->
+</div> <!-- end #footer -->
+
+<div id="footer-bottom">
+	<div class="container clearfix">
+		
+		<ul class="bottom-nav">				<li ><a href="http://www.devoradoresdecontroles.com.br">Home</a></li>
+			<li class="page_item page-item-3049"><a href="http://www.devoradoresdecontroles.com.br/contato/">Contato</a></li>
+<li class="page_item page-item-1365"><a href="http://www.devoradoresdecontroles.com.br/equipe/">Equipe</a></li>
+<li class="page_item page-item-2"><a href="http://www.devoradoresdecontroles.com.br/sobre/">Sobre</a></li>
+</ul>
+		<p id="copyright">Designed by  <a href="http://www.elegantthemes.com" title="Elegant Themes">Elegant Themes</a> | Powered by  <a href="http://www.wordpress.org">Wordpress</a></p>
+	</div> <!--end .container -->
+</div> <!-- end #footer-bottom -->
+
+
+		<script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/M9APyUgNzi8tSk7VzyrWLy4tSC1KyyzOAAA.js"></script>
+<script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+
+		jQuery('ul.superfish, #page-menu ul.nav').superfish({
+			delay:       300,                            // one second delay on mouseout
+			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation
+			speed:       'fast',                          // faster animation speed
+			autoArrows:  true,                           // disable generation of arrow mark-up
+			dropShadows: false                            // disable drop shadows
+		});
+
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul');
+
+		et_search_bar();
+		et_footer_improvements('#footer .footer-widget');
+
+		<!---- et_switcher plugin v1.3 ---->
+		(function($)
+		{
+			$.fn.et_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements in defining lengths
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'prevlink',
+				   arrowRight: 'nextlink',
+				   auto: false,
+				   autoSpeed: 5000
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this);
+					slidesContainer.find(options.slides).hide().end().find(options.slides).filter(':first').css('display','block');
+
+					if (options.linksNav != '') {
+						var linkSwitcher = jQuery(options.linksNav);
+
+						linkSwitcher.click(function(){
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+
+							if (targetElement.hasClass('active')) return false;
+
+							targetElement.siblings().removeClass('active').end().addClass('active');
+
+							var ordernum = targetElement.prevAll(options.lengthElement).length;
+
+							slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop(true,true).fadeIn(700);
+							return false;
+						});
+					};
+
+					jQuery('#'+options.arrowRight+', #'+options.arrowLeft).click(function(){
+
+						var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+							nextSlide = slideActive.next(),
+							prevSlide = slideActive.prev();
+
+						if (jQuery(this).attr("id") == options.arrowRight) {
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;
+							} else { var ordernum = 0; }
+						};
+
+						if (jQuery(this).attr("id") == options.arrowLeft) {
+							if (prevSlide.length) {
+								var ordernum = prevSlide.prevAll().length;
+							} else { var ordernum = slidesContainer.find(options.slides).length-1; }
+						};
+
+						slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop(true,true).fadeIn(700);
+
+						if (typeof interval != 'undefined') {
+							clearInterval(interval);
+							auto_rotate();
+						};
+
+						return false;
+					});
+
+					if (options.auto) {
+						auto_rotate();
+					};
+
+					function auto_rotate(){
+						interval = setInterval(function(){
+							var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+								nextSlide = slideActive.next();
+
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;
+							} else { var ordernum = 0; }
+
+							if (options.linksNav === '')
+								jQuery('#'+options.arrowRight).trigger("click");
+							else
+								linkSwitcher.filter(':eq('+ordernum+')').trigger("click");
+						},options.autoSpeed);
+					};
+				});
+			}
+		})(jQuery);
+
+
+		var $featuredArea = jQuery('#featured'),
+			$all_tabs = jQuery('#all_tabs');
+
+		jQuery(window).load( function(){
+			if ($featuredArea.length) {
+				$featuredArea.addClass('et_slider_loaded').et_switcher({
+					useArrows: true ,
+											auto: true,
+											autoSpeed: 5000													});
+
+				if ( $featuredArea.find('.slide').length == 1 ){
+					jQuery('#featured-control a#prevlink, #featured-control a#nextlink').hide();
+				}
+			};
+		} );
+
+		if ($all_tabs.length) {
+			$all_tabs.et_switcher({
+				linksNav: 'ul#tab_controls li a'
+			});
+		};
+
+		
+		<!---- Footer Improvements ---->
+		function et_footer_improvements($selector){
+			var $footer_widget = jQuery($selector);
+
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+		};
+
+		<!---- Search Bar Improvements ---->
+		function et_search_bar(){
+			var $searchform = jQuery('#cat-nav div#search-form'),
+				$searchinput = $searchform.find("input#searchinput"),
+				searchvalue = $searchinput.val();
+
+			$searchinput.focus(function(){
+				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+			}).blur(function(){
+				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+			});
+		};
+
+	//]]>
+	</script>
+	        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'devoradoresdecontrolesbeta';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12892358-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/ncxLDoQgEAXAC420k-EmujcteX6haQETub2JyVzAZW3KkoshQEqToL6asMqnpX5BF8_kQFAWeFKeMRQE9VyQacs0sbg6xou240SqBpxXmZuv-Rllt79L_n4a-0Q3.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.devoradoresdecontroles.com.br/wp-content/cache/minify/000000/Pci7DYAwDAXAhTCmYBPokSGPn2LHSoxYn44rb-D5xFSeuoHhYsjscmAJqGcJNL4bI8j_oL0WC1jqRn6doCtSr5d9.js"></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced (Requested URI contains query)
+Database Caching 71/96 queries in 0.030 seconds using disk
+
+ Served from: www.devoradores.com.br @ 2016-05-03 18:51:47 by W3 Total Cache -->
