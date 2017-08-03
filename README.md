@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/devoradores/site.svg?branch=master)](https://travis-ci.org/devoradores/site)
+
 # Podcast Devoradores de Controles
 
 Devoradores de Controles foi um projeto que durou quase 3 anos. Nossa proposta foi trazer nosso saudosismo como gamers com bom humor e muita informação.
