@@ -1,9 +1,8 @@
 language: generic
 deploy:
   provider: s3
-  access_key_id: AKIAJWP3FEFLK2XHWNLQ
-  secret_access_key:
-    secure: CcI9cKf7u1clttIxQi/9gF6Hc7nM5pSTKSabFQjeU7/f6LMHMi4xeHqYYBx3JquNKVZdR0GueYumtju6OZRk7IFQGL/sIopr2RjGhsAFsv9cTWy/4BNY10AY4GWoCy7BwBv+ZSCCmM2kxlkDyaMVbQOiq1nG1M8c/SxvVmIZQGpyHR7gPbOPpchij7gPTxaVsxMJNDrAW3si8uFl1wiY5r3oyQYvkxQ1E2oSo5oVGWJTbasQ2OYFgCqXjMwst1CMNWXRJda1jRd4J8s6QRq8EosrMadLulDB3u60VSBlasGYuZnmoQXayKcZm+ggnkVq1q9z/OltzVTyzn/OPK2Z6azKYcVpEw6kZ8el7Dl3PmynIrTKnH+XmBt81GFnOSXGhGFEl8JYmnpzttLzhohYEIvSVIcWAKwLmb2DEoKQsjhK3inLLni20j8kykxBPOglA0H3ItmvK4xdcrtxl3YJjHvLXSeHB2XXQT+EaacoSJXc+hAoiRwv3jbbfqVcS1nsVtqxXYTc/iZlJ13o/GB25P1DRDcMP1Oev/OaD2YffUfeLCkthv5czPbgRxhNtGQNbaO13thPvFaWQAZk7eEuNXIzYE7UAeH/jlu29h07mx6LYs4I93xdmYOo6LjrQQxeMs7CDmakAzItH0cDCaD/xHa/4efuHD37T3wsNwTcsvo=
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
   bucket: devoradores.com.br
   local-dir: src
   acl: public_read
